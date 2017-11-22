@@ -4,5 +4,5 @@ BoltMQ是基于[Apache RocketMQ](https://github.com/apache/rocketmq)的原理，
 
 项目地址
 
-仓库：https://github.com/boltmq/boltmq
-在线阅读：https://boltmq.gitbooks.io/boltmq/content/
+* 仓库：https://github.com/boltmq/boltmq
+* 在线阅读：https://boltmq.gitbooks.io/boltmq/content/
