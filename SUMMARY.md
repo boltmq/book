@@ -9,13 +9,17 @@
 
 ### 原理
 
-* [网络篇](section1/README.md)
-    * [example 1](section1/example1.md)
+* [网络篇](net/README.md)
+    * [背景及介绍](net/intro.md)
+    * [设计与流程](net/architecture.md)
+    * [连接管理](net/netm.md)
+    * [事件通知](net/event.md)
+    * [粘包](net/fragmentation.md)
+    * [通讯包结构](net/protocol.md)
+    * [报文压缩](net/compression.md)
+    * [心跳处理](net/heartbeat.md)
 * [存储篇](section2/README.md)
-    * [example 1](section2/example1.md)
 * [Borker实现篇](section2/README.md)
-    * [example 1](section2/example1.md)
 * [SDK实现篇](section2/README.md)
-    * [example 1](section2/example1.md)
 
 ### 应用
