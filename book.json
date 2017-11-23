@@ -6,6 +6,7 @@
   "plugins" : 
   [
     "advanced-emoji",
+    "disqus",
     "todo",
     "emphasize",
     "katex",
@@ -20,6 +21,9 @@
       "weibo": true,
       "facebook": true,
       "twitter": true
+    },
+    "disqus": {
+      "shortName": "boltmq"
     },
     "search-pro": {
       "cutWordLib": "nodejieba"
