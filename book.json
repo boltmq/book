@@ -12,7 +12,8 @@
     "katex",
     "mermaid-compat",
     "chart",
-    "search-pro"
+    "search-pro",
+    "language-picker"
   ],
   "pluginsConfig": 
   {
@@ -26,6 +27,9 @@
     },
     "search-pro": {
       "cutWordLib": "nodejieba"
+    },
+    "language-picker": {
+      "grid-columns": 1
     }
   }
 }
