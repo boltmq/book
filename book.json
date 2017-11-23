@@ -2,5 +2,30 @@
   "root": ".",
   "title": "BoltMQ原理",
   "description": "BoltMQ配置部署以及原理介绍。",
-  "language": "zh"
+  "language": "zh",
+  "plugins" : 
+  [
+    "advanced-emoji",
+    "disqus",
+    "todo",
+    "emphasize",
+    "katex",
+    "mermaid-compat",
+    "chart",
+    "search-pro"
+  ],
+  "pluginsConfig": 
+  {
+    "sharing": {
+      "weibo": true,
+      "facebook": true,
+      "twitter": true
+    },
+    "disqus": {
+      "shortName": "boltmq"
+    },
+    "search-pro": {
+      "cutWordLib": "nodejieba"
+    }
+  }
 }
